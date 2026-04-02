@@ -1,0 +1,16 @@
+{
+  "accuracy": 0.9983333333333333,
+  "classes": [
+    "hello",
+    "help",
+    "iloveyou",
+    "more",
+    "no",
+    "please",
+    "sorry",
+    "stop",
+    "thanks",
+    "yes"
+  ],
+  "num_features": 63
+}
